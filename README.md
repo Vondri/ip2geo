@@ -9,4 +9,4 @@ With this tool you can get a lot of information about your target
 `python ip2geo.py -i ip_address`
 
 ## Screenshot
-[tak](screenshot.png)
+![](screenshot.png)
