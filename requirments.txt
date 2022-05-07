@@ -1,2 +1,2 @@
-urlopen
+urllib3
 tabulate
